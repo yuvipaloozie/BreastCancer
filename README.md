@@ -6,5 +6,5 @@ Created a simple Jupyter Notebook that walks through full scale analysis of the 
 * Univariate/Bivariate analysis
 * Visualization w/ Seaborn
 * Dimensionality Reduction w/ PCA
-* Traoning multiple ML classifiers
+* Training multiple ML classifiers
 * Hyperparameter Tuning
